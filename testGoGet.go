@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func testGoGet() {
+func TestGoGet() {
 	fmt.Println("go get test success!")
 }
