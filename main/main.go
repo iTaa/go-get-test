@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/iTaa/go_get_test"
+	"testGoGet"
 )
 
 func main() {
-	go_get_test.get_test()
+	testGoGet.get_test()
 }
